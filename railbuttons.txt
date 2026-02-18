@@ -16,7 +16,7 @@ the area being inaccessible after the mount is installed.
 
 Thin and strong materials like canvas phenolic or quantum tube can also
 use this idea but trading the PEM nuts for well nuts. This also avoids the
-maintenance issues since well nuts are operated entirely from the outside
+accessibility issue since well nuts are operated entirely from the outside
 of the structure.
 
 Cardboard is more of a hassle. If there is enough working space, I like to
