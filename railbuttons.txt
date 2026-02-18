@@ -1,0 +1,26 @@
+For launch guidance of 1-6" diameter rockets, generally rail buttons are best.
+Attaching them can become an issue.
+
+On minimum diameter rockets, I skip the buttons entirely. A launch tower
+or other more obscure methods can give better performance. But otherwise,
+read on.
+
+All fiberglass rockets need is a pair of holes in the right places. Using
+a small bolt through the button and a hex nut on the inside of the rocket
+means that the buttons can be easily maintained or replaced. However,
+oftentimes the aft button belongs somewhere in the zone of the glued motor
+mount. In this case I like to upsize the holes to fit a PEM nut. Work the
+motor mount in at an angle, or install the PEM nut while the mount is
+partially inserted. That way a nut can effectively stay in place despite
+the area being inaccessible after the mount is installed.
+
+Thin and strong materials like canvas phenolic or quantum tube can also
+use this idea but trading the PEM nuts for well nuts. This also avoids the
+maintenance issues since well nuts are operated entirely from the outside
+of the structure.
+
+Cardboard is more of a hassle. If there is enough working space, I like to
+have a T nut or other structure provide threads for a small bolt. Otherwise,
+consider gluing plastic rail guides. The old trick of drilling wood screws
+in to the centering ring certainly works, but hitting the ring directly can
+be difficult, and the threads will wear quickly.
